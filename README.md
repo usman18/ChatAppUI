@@ -5,8 +5,8 @@
 
 <br>
 
-<img height=550 width=300 src="https://github.com/usman18/ChatAppUI/blob/master/Screenshots/chat1.jpg"
-/><img height=550 width=300 src="https://github.com/usman18/ChatAppUI/blob/master/Screenshots/chat2.jpg" hspace=100
+<img height=600 width=300 src="https://github.com/usman18/ChatAppUI/blob/master/Screenshots/chat1.jpg"
+/><img height=600 width=300 src="https://github.com/usman18/ChatAppUI/blob/master/Screenshots/chat2.jpg" hspace=100
 />
 
 ## Contributions
