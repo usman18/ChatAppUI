@@ -1,5 +1,8 @@
 # ChatAppUI
   A chat app UI built in Flutter
+
+## Inspiration
+ - [Link](https://www.instagram.com/p/B4Ugfs3gbF1/?igshid=mwouafw1suu0)
   
 ## ScreenShots
 
